@@ -1,4 +1,4 @@
-# EDA_Supermarket_Sales
+# Supermarket_Sales Data Visualization
 
 QUESTIONS TO BE ANSWERED:  
 1.Wich is the branch that has the most invoices and wich is the branch that has the most gross income to the company  
